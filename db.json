@@ -1,0 +1,73 @@
+{
+    "schedules": [
+      {
+        "id": "4b54",
+        "title": "t2",
+        "description": "d2",
+        "subject": "s2",
+        "frequency": "Weekly",
+        "repeat": [
+          "T",
+          "F"
+        ],
+        "time": "01:03"
+      },
+      {
+        "id": "92a3",
+        "title": "t3",
+        "description": "d3",
+        "subject": "s3",
+        "frequency": "Daily",
+        "repeat": null,
+        "time": "01:07"
+      },
+      {
+        "id": "f79d",
+        "title": "t4",
+        "description": "d4",
+        "subject": "s4",
+        "frequency": "Weekly",
+        "repeat": [
+          "Th",
+          "F"
+        ],
+        "time": "23:32"
+      },
+      {
+        "id": "3f2e",
+        "title": "t5",
+        "description": "d5",
+        "subject": "s5",
+        "frequency": "Weekly",
+        "repeat": [
+          "W",
+          "F"
+        ],
+        "time": "12:02"
+      },
+      {
+        "id": "79a2",
+        "title": "t6",
+        "description": "d6",
+        "subject": "s6",
+        "frequency": "Weekly",
+        "repeat": [
+          "T",
+          "W"
+        ],
+        "time": "12:21"
+      },
+      {
+        "id": "1808",
+        "title": "t7",
+        "description": "12",
+        "subject": "12",
+        "frequency": "Daily",
+        "repeat": [
+          "W",
+          "Th"
+        ],
+        "time": "22:02"
+      }
+    ]
+  }
